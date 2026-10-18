@@ -1,0 +1,50 @@
+{
+    "name":  "pixel-measure",
+    "logo":  "📏",
+    "exe":  "PixelMeasure.exe",
+    "desc":  "Free, open-source screen ruler for Windows — measure pixels, spacing and angles over any app. 100 MB portable, offline, no account, MIT.",
+    "topics":  [
+                   "screen-ruler",
+                   "pixel-ruler",
+                   "on-screen-ruler",
+                   "measurement",
+                   "design-tools",
+                   "ui-design",
+                   "developer-tools",
+                   "overlay",
+                   "windows",
+                   "windows-10",
+                   "windows-11",
+                   "csharp",
+                   "dotnet",
+                   "screen-calipers-alternative",
+                   "magnifier",
+                   "portable",
+                   "open-source",
+                   "mit-license"
+               ],
+    "features":  [
+                     "✅ **Pixel-exact ruler** — horizontal, vertical and free-angle rulers snap to pixel edges over any window",
+                     "✅ **Magnifier loupe** — 4x to 16x zoom with a crosshair grid for picking exact boundaries",
+                     "✅ **Guides and markers** — drop persistent guide lines to check alignment across a design or build",
+                     "✅ **Click-through mode** — rulers stay visible but pass clicks to the app underneath, so nothing is blocked",
+                     "✅ **Multi-monitor and DPI aware** — per-monitor scaling handled; measurements stay true at 125 percent and 150 percent",
+                     "✅ **Copy measurements** — one hotkey copies position, size and distance values as text",
+                     "✅ **100 MB self-contained exe** — runtime bundled, portable, offline, MIT with SHA-256 releases"
+                 ],
+    "compare":  [
+                    "| Feature | **pixel-measure** | Screen Calipers | JR Screen Ruler | Pixel Ruler |",
+                    "|---|:---:|:---:|:---:|:---:|",
+                    "| Price | **Free, MIT** | $29.95 | Free | Free |",
+                    "| Open source | **Yes** | No | No | No |",
+                    "| Any-angle measurement | **Yes** | Yes | No | No |",
+                    "| Magnifier loupe | **Yes** | No | No | Partial |",
+                    "| Multi-monitor DPI aware | **Yes** | Partial | No | No |",
+                    "| Portable, no install | **Yes, 100 MB** | Installer | Zip | Installer |"
+                ],
+    "faqQ":  "how to measure pixels on screen in Windows?",
+    "faqA":  "There is no built-in ruler beyond Paint tricks, and freeware rulers were built for 96 DPI single monitors and drift on modern scaling. pixel-measure is DPI-aware per monitor, adds a magnifier for exact edge picking, and its click-through mode never blocks the app below. It is a 100 MB portable exe, MIT, fully offline.",
+    "s1":  "Dark overlay ruler (accent amber #F59E0B): 384 px span marked, tick labels every 10 px, mm toggle, readout chip showing X 128, Y 640.",
+    "s2":  "Magnifier loupe at 16x with crosshair grid centered on a button edge, pixel color coordinates below, freeze-frame toggle on.",
+    "s3":  "Settings: units px or mm, opacity slider at 80 percent, hotkey list, click-through toggle highlighted, per-monitor DPI status cards."
+}
